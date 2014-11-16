@@ -1,0 +1,19 @@
+{
+  "name": "ziggurat",
+  "version": "1.0.0",
+  "description": "Ziggurat Algorithm ported to JS by http://www.filosophy.org",
+  "main": "ziggurat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JAForbes/ziggurat.git"
+  },
+  "author": "JAForbes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAForbes/ziggurat/issues"
+  },
+  "homepage": "https://github.com/JAForbes/ziggurat"
+}
